@@ -1,7 +1,8 @@
+![Header](https://firebasestorage.googleapis.com/v0/b/resumeanalyzer-394112.appspot.com/o/JobDescription%2Fgithub-header-image(3).png?alt=media&token=24138252-63d5-4094-bc4d-d4f007ef2280)
 <h1 align="center">Hi 👋, I'm Mohammad Uzair</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/hrSFdM4rg8VFpXyz2m" />
-- 🔭 I’m currently working on my [Final Year Project](Smart Recruiter)
+<img align="right" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRicDZobG9kcDhvdzk0MXpzM2xpcmRhOHk1NHUyb211OW03djVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+- 🔭 I’m currently working on my Final Year Project (Smart Recruiter)
 
 - 🌱 I’m currently learning **Next.js, AI/ML, Flask, Fast API, Python**
 
