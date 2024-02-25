@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Uzair</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRicDZobG9kcDhvdzk0MXpzM2xpcmRhOHk1NHUyb211OW03djVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+<img align="right" width="300" src="https://firebasestorage.googleapis.com/v0/b/resumeanalyzer-394112.appspot.com/o/JobDescription%2Fdeveloper.gif?alt=media&token=29df7960-2b72-4064-8899-9d0f4935b7bf">
 
 - 🔭 I’m currently working on my final year project **Smart Recruiter**
 
