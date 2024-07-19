@@ -1,13 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Uzair</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer | AI Enthusiast</h3>
 <img align="right" width="300" src="https://firebasestorage.googleapis.com/v0/b/resumeanalyzer-394112.appspot.com/o/JobDescription%2Fdeveloper.gif?alt=media&token=29df7960-2b72-4064-8899-9d0f4935b7bf">
 
-- 🔭 I’m currently working on my final year project **Smart Recruiter**
 
 - 🌱 I’m currently learning **Next.js, AI/ML, Flask, Fast API, Python**
-
-- 👯 I’m looking to collaborate on **web development projects**
 
 - 👨‍💻 All of my projects are available at [https://bento.me/mohammaduzair](https://bento.me/mohammaduzair)
 
